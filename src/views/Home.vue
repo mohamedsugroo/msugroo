@@ -11,26 +11,36 @@
         <div class="row">
           <div class="col">
             <router-link to="/we-design">
-              <div class="we-symbol we-design"></div>
-              WE DESIGN
+              <div class="we-symbol we-design">
+                <i class="fas fa-pencil-ruler"></i> <br>
+                WE DESIGN
+              </div>
+              
             </router-link>
           </div>
           <div class="col">
             <router-link to="/we-develop">
-              <div class="we-symbol we-develop"></div>
-              WE DEVELOP
+              <div class="we-symbol we-develop">
+                <i class="fas fa-code"></i> <br>
+                WE DEVELOP
+              </div>
+              
             </router-link>
           </div>
           <div class="col">
             <router-link to="/we-promote">
-              <div class="we-symbol we-promote"></div>
-              WE PROMOTE
+              <div class="we-symbol we-promote">
+                <i class="fas fa-chart-line"></i> <br>
+                WE DEVELOP
+              </div>
             </router-link>
           </div>
           <div class="col">
             <router-link to="/we-support">
-              <div class="we-symbol we-support"></div>
-              WE SUPPORT
+              <div class="we-symbol we-support">
+                <i class="fas fa-life-ring"></i> <br>
+                WE SUPPORT
+              </div>
             </router-link>
           </div>
         </div>
@@ -102,21 +112,26 @@ a {
   background-position: center;
   background-size: 50%;
   background-repeat: no-repeat;
+  i {
+    text-align: center;
+    font-size: 3.9rem;
+    margin-bottom: 40px;
+  }
 }
 .we-design {
-  background-image: url('/svg/tools.svg');
+  // background-image: url('/svg/tools.svg');
 }
 
 .we-develop {
-  background-image: url('/svg/code.svg');
+  // background-image: url('/svg/code.svg');
 }
 
 .we-promote {
-  background-image: url('/svg/stats.svg');
+  // background-image: url('/svg/stats.svg');
 }
 
 .we-support {
-  background-image: url('/svg/lifesaver.svg');
+  // background-image: url('/svg/lifesaver.svg');
 }
 
 
