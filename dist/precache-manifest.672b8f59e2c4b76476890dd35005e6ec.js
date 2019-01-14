@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "0eddf2454e5dcceb7ffb75e2ddffa0b2",
-    "url": "/SVG/code.svg"
+    "revision": "5bef7e966836dcc9c7142f907cdbfd70",
+    "url": "/SVG/lifesaver.svg"
   },
   {
     "revision": "a46ba892e7f94185f0f2",
     "url": "/js/about.5f5952cc.js"
   },
   {
-    "revision": "41b71de3cd98b44d7b15",
-    "url": "/js/app.39bc3f3d.js"
+    "revision": "3862608d187eec915345",
+    "url": "/js/app.2a801c30.js"
   },
   {
     "revision": "31a1ae5851387f74cc9b",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "12394072f15f3b44b29c0d3f33f77c6e",
+    "revision": "747364fa435a3fb4efc9ab69a5a3c6f1",
     "url": "/index.html"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/img/123.jpg"
   },
   {
-    "revision": "41b71de3cd98b44d7b15",
+    "revision": "3862608d187eec915345",
     "url": "/css/app.d71f56c5.css"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/SVG/search3.svg"
   },
   {
-    "revision": "5bef7e966836dcc9c7142f907cdbfd70",
-    "url": "/SVG/lifesaver.svg"
+    "revision": "0eddf2454e5dcceb7ffb75e2ddffa0b2",
+    "url": "/SVG/code.svg"
   }
 ];
