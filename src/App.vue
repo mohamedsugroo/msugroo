@@ -94,4 +94,13 @@ export default {
     }
   }
 
+  ._page {
+    width: 100%;
+    min-height: 800px;
+    background: white;
+    margin-top: -25px;
+    margin-bottom: -20px;
+    color: #1d1d32;
+  }
+
 </style>

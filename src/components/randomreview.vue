@@ -1,7 +1,7 @@
 <template>
     <div class="review">
         <div class="userinfo">
-            <div class="avatar" style="background-image: url('https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/05/Universal-TV.jpg?ssl=1')"></div>
+            <div class="avatar" v-bind:style="{ backgroundImage: 'url(' + avatar + ')' }"></div>
             <label class="username"> {{company}} </label> <br>
             <label class="company_name">{{industry}}</label>
             <button class="close"><i class="fas fa-times"></i></button>
@@ -17,9 +17,9 @@ export default {
   name: 'RandomReview',
   data() {
     return {
-      company: 'EA Sports Deutschland ',
-      industry: 'Video Games Company',
-      avatar: 'https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/05/Universal-TV.jpg?ssl=1',
+      company: 'Zero Manga',
+      industry: 'オンラインマンガ',
+      avatar: 'https://lh4.googleusercontent.com/bYBJXbCrwcVKMhxcMvIZ7wGvsfctcPo1i-2Ni2DTwNCDyL_e92iy958GYBU7LWwY9L0hpPHkMwTejg=w2880-h1574',
       comment: `consistently produce high quality solutions, on-time and on-budget. They provide a responsive and effective support and maintenance service. We rely on them to deliver for our customers – and they do not let us down.`
     }
   }
