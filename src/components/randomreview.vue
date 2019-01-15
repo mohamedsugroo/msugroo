@@ -4,7 +4,7 @@
             <div class="avatar" v-bind:style="{ backgroundImage: 'url(' + avatar + ')' }"></div>
             <label class="username"> {{company}} </label> <br>
             <label class="company_name">{{industry}}</label>
-            <button class="close"><i class="fas fa-times"></i></button>
+            <button class="close"><i class="fas fa-sync"></i></button>
         </div>
         <div class="content">
             {{comment}}

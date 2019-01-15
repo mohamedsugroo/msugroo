@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/js/about.722f000d.js"
   },
   {
-    "revision": "24227b2bbde6abd75fbf",
-    "url": "/js/app.edf5650f.js"
+    "revision": "3dfc137a6c995d03f36b",
+    "url": "/js/app.d329cf88.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/js/chunk-62573048.aa861444.js"
   },
   {
-    "revision": "5bef7e966836dcc9c7142f907cdbfd70",
-    "url": "/SVG/lifesaver.svg"
+    "revision": "b4bb7ef1d56e2ca2f2765136ea850890",
+    "url": "/SVG/stats.svg"
   },
   {
     "revision": "cacbbe0f9823d58a156a3180b8ec1c91",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/img/zeromangalogo.png"
   },
   {
-    "revision": "1578d0e61df0e4981860e0ef877b8e0f",
+    "revision": "e8d1977d859899139dd693228fc4fb85",
     "url": "/index.html"
   },
   {
@@ -56,20 +56,20 @@ self.__precacheManifest = [
     "url": "/css/chunk-420a3141.35eca5c7.css"
   },
   {
-    "revision": "24227b2bbde6abd75fbf",
-    "url": "/css/app.d036bda0.css"
+    "revision": "3dfc137a6c995d03f36b",
+    "url": "/css/app.7853d412.css"
   },
   {
     "revision": "1fcd659dba77f38350985a489e60751a",
     "url": "/SVG/tools.svg"
   },
   {
-    "revision": "b4bb7ef1d56e2ca2f2765136ea850890",
-    "url": "/SVG/stats.svg"
-  },
-  {
     "revision": "01858ee8c943dc07b888ecb132039a5d",
     "url": "/SVG/search3.svg"
+  },
+  {
+    "revision": "5bef7e966836dcc9c7142f907cdbfd70",
+    "url": "/SVG/lifesaver.svg"
   },
   {
     "revision": "0eddf2454e5dcceb7ffb75e2ddffa0b2",
