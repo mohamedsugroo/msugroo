@@ -43,7 +43,7 @@ export default {
           {
             title: 'E-COMMERCE',
             cover: 'https://images.pexels.com/photos/264554/pexels-photo-264554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-            summary: `Between July 2012 and July 2013, online retail sales rose by 10.7%. It’s high time to sell better online. Simple CMS, top-notch customer engagement, integrated stock management services, clever catalogue management, SEO-friendly development – find out what JBi can do to help you lower bounce rates, boost conversions and optimise your E-commerce store.`,
+            summary: `Between July 2012 and July 2013, online retail sales rose by 10.7%. It’s high time to sell better online. Simple CMS, top-notch customer engagement, integrated stock management services, clever catalogue management, SEO-friendly development – find out what we can do to help you lower bounce rates, boost conversions and optimise your E-commerce store.`,
             link: '/whatwedo/we-develop/e-commerce',
             link_text: 'Read More About E-Commerce'
           },
@@ -57,7 +57,7 @@ export default {
           {
             title: 'MOBILE APPS',
             cover: 'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-            summary: `We live in the communications age and mobile is bigger business than ever before. Don’t miss the boat and this important new revenue stream. Talk to JBI about mobile app development today to give your visitors greater flexibility, top quality user experience and even better accessibility. We specialise in mobile development for both iOS and Android.`,
+            summary: `We live in the communications age and mobile is bigger business than ever before. Don’t miss the boat and this important new revenue stream. Talk to us about mobile app development today to give your visitors greater flexibility, top quality user experience and even better accessibility. We specialise in mobile development for both iOS and Android.`,
             link: '/whatwedo/we-develop/mobile-apps',
             link_text: 'Read More About Mobile Apps'
           },
