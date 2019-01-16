@@ -36,14 +36,14 @@ export default {
           {
             title: 'SOCIAL MEDIA',
             cover: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-            summary: `Are you being talked about online? With so many diverse social platforms available, you should be. Our social-savvy digital marketers work with your brand to help you tweet, like and share your way to a prominent online presence, better customer interaction and a brilliant brand identity. JBi like this.`,
+            summary: `Are you being talked about online? With so many diverse social platforms available, you should be. Our social-savvy digital marketers work with your brand to help you tweet, like and share your way to a prominent online presence, better customer interaction and a brilliant brand identity.`,
             link: '/whatwedo/we-promote/social-media',
             link_text: 'Read More About Social Media'
           },
           {
             title: 'SEO',
             cover: 'https://images.pexels.com/photos/106344/pexels-photo-106344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-            summary: `Built a beautiful website with all the bells and whistles? It’s time to invite the whole world wide web to the party. Without search engine optimisation, how do you tell your digital audience you exist? You need to shout about it with SEO. Ask JBi about optimisation, guest blogging, web 2.0s and everything in between.`,
+            summary: `Built a beautiful website with all the bells and whistles? It’s time to invite the whole world wide web to the party. Without search engine optimisation, how do you tell your digital audience you exist? You need to shout about it with SEO. Ask Us about optimisation, guest blogging, web 2.0s and everything in between.`,
             link: '/whatwedo/we-promote/seo',
             link_text: 'Read More About SEO'
           },
@@ -71,7 +71,7 @@ export default {
           {
             title: 'VIDEO',
             cover: 'https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-            summary: `Lights, camera, action! If you want to build a digital buzz around your online brand, video is a powerful tool. We build video which intrigues and inspires, boosting brand loyalty and creating real audience engagement. From product videos to ‘how tos’ and screencasts, talk to JBi about your video marketing ideas.`,
+            summary: `Lights, camera, action! If you want to build a digital buzz around your online brand, video is a powerful tool. We build video which intrigues and inspires, boosting brand loyalty and creating real audience engagement. From product videos to ‘how tos’ and screencasts, talk to Us about your video marketing ideas.`,
             link: '/whatwedo/we-promote/video',
             link_text: 'Read More About Video'
           }
