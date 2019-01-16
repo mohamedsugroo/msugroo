@@ -49,7 +49,7 @@ export default {
           },
           {
             title: 'DATA MIGRATION',
-            cover: 'https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+            cover: 'https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
             summary: `Don’t lose sleep over data migration. Whether you’re moving hundreds of product pages but want to maintain their current SEO value or need to transport thousands of customer addresses to a new CRM system, we can make it happen seamlessly and securely, with no stress and no slip ups.`,
             link: '/whatwedo/we-support/data-migration',
             link_text: 'Read More About Data Migration'

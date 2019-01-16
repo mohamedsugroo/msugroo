@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/img/zeromangalogo.png"
   },
   {
-    "revision": "4fb998a53dcdee02b715",
-    "url": "/js/app.e8214e85.js"
+    "revision": "108a545491aa936448aa",
+    "url": "/js/app.41a0a78b.js"
   },
   {
     "revision": "31a1ae5851387f74cc9b",
     "url": "/js/chunk-vendors.b7efa852.js"
   },
   {
-    "revision": "399dd48eb5544347f0b7ec94243a1f92",
+    "revision": "7c21da309571b3a01d4e8f90792bdcb2",
     "url": "/index.html"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/img/123.jpg"
   },
   {
-    "revision": "4fb998a53dcdee02b715",
+    "revision": "108a545491aa936448aa",
     "url": "/css/app.86792313.css"
   },
   {
