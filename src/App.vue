@@ -12,7 +12,7 @@
         <router-link class="NavLink" to="/whatwedo">WHAT WE DO</router-link>
         <router-link class="NavLink" to="/ourtwocents">OUR TWO CENTS</router-link> 
         <router-link class="NavLink" to="/ourwork">OUR WORK</router-link>
-        <router-link class="NavButton" to="/lets_talk">LET'S TALK</router-link>
+        <router-link class="NavButton" to="/lets-talk">LET'S TALK</router-link>
       </div>
     </div>
     <router-view/>
