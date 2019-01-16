@@ -10,7 +10,7 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <router-link to="/we-design">
+            <router-link to="/whatwedo/we-design">
               <div class="we-symbol we-design">
                 <i class="fas fa-pencil-ruler"></i> <br>
                 WE DESIGN
@@ -19,7 +19,7 @@
             </router-link>
           </div>
           <div class="col">
-            <router-link to="/we-develop">
+            <router-link to="/whatwedo/we-develop">
               <div class="we-symbol we-develop">
                 <i class="fas fa-code"></i> <br>
                 WE DEVELOP
@@ -28,15 +28,15 @@
             </router-link>
           </div>
           <div class="col">
-            <router-link to="/we-promote">
+            <router-link to="/whatwedo/we-promote">
               <div class="we-symbol we-promote">
                 <i class="fas fa-chart-line"></i> <br>
-                WE DEVELOP
+                WE PROMOTE
               </div>
             </router-link>
           </div>
           <div class="col">
-            <router-link to="/we-support">
+            <router-link to="/whatwedo/we-support">
               <div class="we-symbol we-support">
                 <i class="fas fa-life-ring"></i> <br>
                 WE SUPPORT
