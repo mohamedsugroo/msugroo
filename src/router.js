@@ -3,6 +3,8 @@ import Router from 'vue-router'
 import Home from './views/Home.vue'
 import wedesign from './views/whatwedo/wedesign.vue'
 import Whatwedo from './views/whatwedo.vue'
+import Wedevelop from './views/whatwedo/wedevelop.vue'
+import Wepromote from './views/whatwedo/wepromote.vue'
 
 Vue.use(Router)
 
@@ -31,6 +33,16 @@ export default new Router({
       path: '/whatwedo/we-design',
       name: 'wedesign',
       component: wedesign
+    },
+    {
+      path: '/whatwedo/we-develop',
+      name: 'wedesign',
+      component: Wedevelop
+    },
+    {
+      path: '/whatwedo/we-promote',
+      name: 'wepromote',
+      component: Wepromote
     }
   ]
 })

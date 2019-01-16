@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e76c66250b2426ef862f631871b801fe.js"
+  "/precache-manifest.05b4decfbf2dbdecae4de9c841ef7e87.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "msugroo"});
