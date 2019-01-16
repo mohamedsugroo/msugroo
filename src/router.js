@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
+import wedesign from './views/whatwedo/wedesign.vue'
+import Whatwedo from './views/whatwedo.vue'
 
 Vue.use(Router)
 
@@ -23,12 +25,12 @@ export default new Router({
     {
       path: '/whatwedo',
       name: 'whatwedo',
-      component: () => import('./views/whatwedo.vue')
+      component: Whatwedo
     },
     {
       path: '/whatwedo/we-design',
       name: 'wedesign',
-      component: () => import('./views/whatwedo/wedesign.vue')
+      component: wedesign
     }
   ]
 })
