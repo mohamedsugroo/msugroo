@@ -1,6 +1,5 @@
 <template>
 <div class="_page">
-
     <section class="sectionfiller">
         <div class="container boxIt">
             <h1 class="title">WE DESIGN</h1>
@@ -10,7 +9,6 @@
             </p>
         </div>
     </section>
-
     <section class="sectionfiller" v-for="item in resources" >
         <div class="featuredImage" v-bind:style="{ backgroundImage: 'url(' + item.cover + ')' }"></div>
         <div class="container boxIt">
@@ -24,10 +22,8 @@
             </a>
         </div>
     </section>
-
 </div>
 </template>
-
 <script>
 export default {
     name: 'WhatWeDo',

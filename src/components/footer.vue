@@ -18,17 +18,17 @@
                     <div class="row">
                         <div class="col">
                             <h3 class="resource_title">Key Services</h3>
-                            <li class="resource_link"><router-link to="#">Website Design </router-link></li>
-                            <li class="resource_link"><router-link to="#">Web Development </router-link></li>
-                            <li class="resource_link"><router-link to="#">Mobile Development </router-link></li>
-                            <li class="resource_link"><router-link to="#">Digital Marketing</router-link></li>
+                            <li class="resource_link"><router-link to="/whatwedo/we-design">We Design </router-link></li>
+                            <li class="resource_link"><router-link to="/whatwedo/we-develop">We Develop </router-link></li>
+                            <li class="resource_link"><router-link to="/whatwedo/we-promote">We Promote </router-link></li>
+                            <li class="resource_link"><router-link to="/whatwedo/we-support">We Support</router-link></li>
                         </div>
                         <div class="col">
                             <h3 class="resource_title">Who We Are</h3>
                             <li class="resource_link"><router-link to="/ourwork">Our Work</router-link></li>
                             <li class="resource_link"><router-link to="#">Our Process</router-link></li>
                             <li class="resource_link"><router-link to="#">Our Two Cents</router-link></li>
-                            <li class="resource_link"><router-link to="#">Privacy Policy</router-link></li>
+                            <li class="resource_link"><router-link to="/privacypolicy">Privacy Policy</router-link></li>
                         </div>
                         <div class="col">
                             <h3 class="resource_title">Resources</h3>
