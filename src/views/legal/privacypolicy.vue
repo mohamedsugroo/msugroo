@@ -131,7 +131,7 @@
 import ContactForm from '@/components/contactform.vue'
 import LegalMenu from '@/components/legalmenu.vue'
 export default {
-  name: 'Footer',
+  name: 'Privacy',
   components: {
     ContactForm,
     LegalMenu

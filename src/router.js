@@ -9,6 +9,8 @@ import Wepromote from './views/whatwedo/wepromote.vue'
 import wesupport from './views/whatwedo/wesupport.vue'
 import Ourwork from  './views/ourwork.vue'
 import privacypolicy from  './views/legal/privacypolicy.vue'
+import seo from  './views/whatwedo/seo.vue'
+
 
 Vue.use(Router)
 
@@ -50,7 +52,7 @@ export default new Router({
     },
     {
       path: '/whatwedo/we-develop',
-      name: 'wedesign',
+      name: 'weddevelop',
       component: Wedevelop
     },
     {
@@ -62,6 +64,11 @@ export default new Router({
       path: '/whatwedo/we-support',
       name: 'wesupport',
       component: wesupport
+    },
+    {
+      path: '/whatwedo/we-promote/seo',
+      name: 'seo',
+      component: seo
     },
     {
       path: '/privacypolicy',

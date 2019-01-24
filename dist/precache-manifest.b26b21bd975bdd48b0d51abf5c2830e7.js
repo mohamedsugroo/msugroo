@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "01858ee8c943dc07b888ecb132039a5d",
-    "url": "/SVG/search3.svg"
+    "revision": "0eddf2454e5dcceb7ffb75e2ddffa0b2",
+    "url": "/SVG/code.svg"
   },
   {
     "revision": "cacbbe0f9823d58a156a3180b8ec1c91",
@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/img/zeromangalogo.png"
   },
   {
-    "revision": "49614726e1d44fe56207",
-    "url": "/js/app.30081a6c.js"
+    "revision": "249318b4266b56b4a307",
+    "url": "/js/app.cfa399b1.js"
   },
   {
-    "revision": "31a1ae5851387f74cc9b",
-    "url": "/js/chunk-vendors.b7efa852.js"
+    "revision": "bd0a17c83c8edfb244c7",
+    "url": "/js/chunk-vendors.73e33b8c.js"
   },
   {
-    "revision": "6749471ddc2863933f40344bc55cff6e",
+    "revision": "8309f89fe6f758acbcede6a0f472c65d",
     "url": "/index.html"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/img/123.jpg"
   },
   {
-    "revision": "49614726e1d44fe56207",
-    "url": "/css/app.6608ebc4.css"
+    "revision": "249318b4266b56b4a307",
+    "url": "/css/app.46ba2543.css"
   },
   {
     "revision": "fb4c236034f250b32ac3",
@@ -56,11 +56,11 @@ self.__precacheManifest = [
     "url": "/SVG/stats.svg"
   },
   {
-    "revision": "5bef7e966836dcc9c7142f907cdbfd70",
-    "url": "/SVG/lifesaver.svg"
+    "revision": "01858ee8c943dc07b888ecb132039a5d",
+    "url": "/SVG/search3.svg"
   },
   {
-    "revision": "0eddf2454e5dcceb7ffb75e2ddffa0b2",
-    "url": "/SVG/code.svg"
+    "revision": "5bef7e966836dcc9c7142f907cdbfd70",
+    "url": "/SVG/lifesaver.svg"
   }
 ];

@@ -19,6 +19,11 @@
         </ul>
     </aside>
 </template>
+<script>
+export default {
+  name: 'LegalMenu'
+}
+</script>
 <style lang="scss" scoped>
 .sidemenu {
     background: #ecf0f1;
