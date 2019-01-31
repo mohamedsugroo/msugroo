@@ -22,6 +22,17 @@ export default {
     return {
         posts: []
     }
+  },
+  metaInfo: {
+    title: 'Lets Talk',
+    titleTemplate: '%s | M Sugroo',
+    meta: [
+      {name: 'description', content: 'Get in touch with us to kick off your new project using our contact form.'},
+      {property: 'og:type', content: 'website'},
+      {property: 'og:title', content: 'Lets Talk | M Sugroo'},
+      {property: 'og:site_name', content: 'M Sugroo'},
+      {property: 'og:description', content: 'Get in touch with us to kick off your new project using our contact form.'}
+    ]
   }
 }
 </script>

@@ -65,6 +65,17 @@ export default {
     Portfolio,
     Footer,
     RandomReview
+  },
+  metaInfo: {
+    title: 'London Web Developers',
+    titleTemplate: '%s | M Sugroo',
+    meta: [
+      {name: 'description', content: 'Fresh, creative digital services from an innovative London web design agency. We develop, promote, consult and design for ambitious online businesses.'},
+      {property: 'og:type', content: 'website'},
+      {property: 'og:title', content: 'London creative digital services | M Sugroo'},
+      {property: 'og:site_name', content: 'M Sugroo'},
+      {property: 'og:description', content: 'Fresh, creative digital services from an innovative London web design agency. We develop, promote, consult and design for ambitious online businesses.'}
+    ]
   }
 }
 </script>

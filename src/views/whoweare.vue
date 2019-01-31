@@ -22,6 +22,23 @@
 </div>
 </template>
 
+<script>
+export default {
+  metaInfo: {
+    title: 'Who We are',
+    titleTemplate: '%s | M Sugroo',
+    meta: [
+      {name: 'description', content: 'We’re M-Sugroo. Our fully-loaded, London-based digital agency began as many of the best things do: across a sticky coffee table. We started life in 2018, thought up by two ex-colleagues on a mission: to offer the best of traditional web design blended with real commercial insight'},
+      {property: 'og:type', content: 'website'},
+      {property: 'og:title', content: 'Who We Are | M Sugroo'},
+      {property: 'og:site_name', content: 'M Sugroo'},
+      {property: 'og:description', content: 'We’re M-Sugroo. Our fully-loaded, London-based digital agency began as many of the best things do: across a sticky coffee table. We started life in 2018, thought up by two ex-colleagues on a mission: to offer the best of traditional web design blended with real commercial insight'}
+    ]
+  }
+}
+</script>
+
+
 <style lang="scss" scoped>
   strong {
     font-weight: 400;

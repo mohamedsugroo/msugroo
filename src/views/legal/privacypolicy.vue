@@ -135,6 +135,17 @@ export default {
   components: {
     ContactForm,
     LegalMenu
+  },
+  metaInfo: {
+    title: 'Privacy',
+    titleTemplate: '%s | M Sugroo',
+    meta: [
+      {name: 'description', content: 'At M-Sugroo, we are committed to protecting your personal data whilst visiting our website. This privacy policy explains when, why and what data we collect from our visitors, where we use this data and how we protect it. Your personal and sensitive data will not be shared with third-parties without your consent.'},
+      {property: 'og:type', content: 'website'},
+      {property: 'og:title', content: 'Privacy | M Sugroo'},
+      {property: 'og:site_name', content: 'M Sugroo'},
+      {property: 'og:description', content: 'At M-Sugroo, we are committed to protecting your personal data whilst visiting our website. This privacy policy explains when, why and what data we collect from our visitors, where we use this data and how we protect it. Your personal and sensitive data will not be shared with third-parties without your consent.'}
+    ]
   }
 }
 </script>

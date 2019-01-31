@@ -63,6 +63,17 @@ export default {
           }
         ]
     }
+  },
+  metaInfo: {
+    title: 'What We Do',
+    titleTemplate: '%s | M Sugroo',
+    meta: [
+      {name: 'description', content: 'We do Digital. We’re your web design company, web development agency and digital marketing team all rolled into one very special integrated digital service.'},
+      {property: 'og:type', content: 'website'},
+      {property: 'og:title', content: 'What We Do | M Sugroo'},
+      {property: 'og:site_name', content: 'M Sugroo'},
+      {property: 'og:description', content: 'We do Digital. We’re your web design company, web development agency and digital marketing team all rolled into one very special integrated digital service.'}
+    ]
   }
 }
 </script>

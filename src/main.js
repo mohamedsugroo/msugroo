@@ -6,6 +6,10 @@ import router from './router'
 import store from './store'
 import './registerServiceWorker'
 
+import Meta from 'vue-meta';
+
+Vue.use(Meta)
+
 Vue.use(VueFire)
 
 Vue.config.productionTip = false
