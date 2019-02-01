@@ -26,15 +26,15 @@
                         <div class="col">
                             <h3 class="resource_title">Who We Are</h3>
                             <li class="resource_link"><router-link to="/ourwork">Our Work</router-link></li>
-                            <li class="resource_link"><router-link to="#">Our Process</router-link></li>
-                            <li class="resource_link"><router-link to="#">Our Two Cents</router-link></li>
+                            <li class="resource_link"><router-link to="/ourwork">Our Process</router-link></li>
+                            <li class="resource_link"><a href="https://blog.msugroo.com/">Our Two Cents</a></li>
                             <li class="resource_link"><router-link to="/privacypolicy">Privacy Policy</router-link></li>
                         </div>
                         <div class="col">
                             <h3 class="resource_title">Resources</h3>
                             <li class="resource_link"><router-link to="#">Careers</router-link></li>
                             <li class="resource_link"><router-link to="#">Terms</router-link></li>
-                            <li class="resource_link"><router-link to="#">Sitemap</router-link></li>
+                            <li class="resource_link"><a href="/sitemap.xml">Sitemap</a></li>
                             <li class="resource_link"><router-link to="/lets-talk">Lets Talk</router-link></li>
                         </div>
                     </div>
