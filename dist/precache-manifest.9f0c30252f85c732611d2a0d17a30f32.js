@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "0eddf2454e5dcceb7ffb75e2ddffa0b2",
-    "url": "/SVG/code.svg"
+    "revision": "7520994f93f89720ba468768d6bcb829",
+    "url": "/robots.txt"
   },
   {
     "revision": "cacbbe0f9823d58a156a3180b8ec1c91",
@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/img/zeromangalogo.png"
   },
   {
-    "revision": "522c558602a032c47a95",
-    "url": "/js/app.19c467f7.js"
+    "revision": "c5c2e31221ca1779149b",
+    "url": "/js/app.bfb0274e.js"
   },
   {
-    "revision": "7d95c850b859c51da5bf",
-    "url": "/js/chunk-vendors.ca804b3b.js"
+    "revision": "209de991580f4f4ca2f9",
+    "url": "/js/chunk-vendors.2d4a42e1.js"
   },
   {
-    "revision": "e65f3c195d58a8612d78ed965f954abe",
+    "revision": "7cef88a881c1fefce8fd73e8bf6d8936",
     "url": "/index.html"
   },
   {
@@ -28,27 +28,23 @@ self.__precacheManifest = [
     "url": "/logo.svg"
   },
   {
-    "revision": "7520994f93f89720ba468768d6bcb829",
-    "url": "/robots.txt"
-  },
-  {
-    "revision": "02ac2fcda8a18b79610c",
-    "url": "/js/about.afea9e37.js"
-  },
-  {
     "revision": "99809bb65d62517385f59609e6edda2a",
     "url": "/sitemap.xml"
+  },
+  {
+    "revision": "b333a9f960bf0322a640",
+    "url": "/js/about.a87fe091.js"
   },
   {
     "revision": "bee36bb775304128ae2e20fcb30e4772",
     "url": "/img/123.jpg"
   },
   {
-    "revision": "522c558602a032c47a95",
-    "url": "/css/app.fe419719.css"
+    "revision": "c5c2e31221ca1779149b",
+    "url": "/css/app.e5f33776.css"
   },
   {
-    "revision": "02ac2fcda8a18b79610c",
+    "revision": "b333a9f960bf0322a640",
     "url": "/css/about.1c04cb9a.css"
   },
   {
@@ -66,5 +62,9 @@ self.__precacheManifest = [
   {
     "revision": "5bef7e966836dcc9c7142f907cdbfd70",
     "url": "/SVG/lifesaver.svg"
+  },
+  {
+    "revision": "0eddf2454e5dcceb7ffb75e2ddffa0b2",
+    "url": "/SVG/code.svg"
   }
 ];

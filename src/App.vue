@@ -10,7 +10,7 @@
       <div class="right">
         <router-link class="NavLink" to="/whoweare">WHO WE ARE</router-link>
         <router-link class="NavLink" to="/whatwedo">WHAT WE DO</router-link>
-        <a class="NavLink" href="https://blog.msugroo.com/">OUR TWO CENTS</a> 
+        <a class="NavLink" href="https://en.blogs.msugroo.com/">OUR TWO CENTS</a> 
         <router-link class="NavLink" to="/ourwork">OUR WORK</router-link>
         <router-link class="NavButton" to="/lets-talk">LET'S TALK</router-link>
       </div>
